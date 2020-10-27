@@ -1864,6 +1864,18 @@ animation-duration: 10s;  4 x 10s
 }
 
 .mockup_img {
+    float: left;
+    padding-left: 15px
+}
+
+.mockup_text {
+    display: inline-block;
+    padding-left: 90px;
+    padding-top: 70px
+}
+
+/*
+.mockup_img {
     display: inline-block;
     padding-right: 25px
 }
@@ -1873,6 +1885,7 @@ animation-duration: 10s;  4 x 10s
     padding-left: 25px;
     padding-top: 70px
 }
+*/
 
 .text_top h2 {
     color: #333;
