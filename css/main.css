@@ -1932,6 +1932,9 @@ animation-duration: 10s;  4 x 10s
 }
 
 
+@media (min-width: 1200px){
+    .banner_img{width: 100%}
+}
 
 @media (max-width:767px) {
     .mo_me {
